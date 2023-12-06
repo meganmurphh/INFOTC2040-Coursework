@@ -1,0 +1,15 @@
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/bin/Debug/net5.0/Project1.deps.json
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/bin/Debug/net5.0/Project1.runtimeconfig.json
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/bin/Debug/net5.0/Project1.runtimeconfig.dev.json
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/bin/Debug/net5.0/Project1.dll
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/bin/Debug/net5.0/ref/Project1.dll
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/bin/Debug/net5.0/Project1.pdb
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/Project1.csprojAssemblyReference.cache
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/Project1.AssemblyInfoInputs.cache
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/Project1.AssemblyInfo.cs
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/Project1.csproj.CoreCompileInputs.cache
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/Project1.dll
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/ref/Project1.dll
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/Project1.pdb
+/Users/krcd58/Documents/IT-2040/spring2022/Project1/obj/Debug/net5.0/Project1.genruntimeconfig.cache
